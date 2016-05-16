@@ -1,2 +1,3 @@
 # PojectRepo
 firstProjectRepo
+echo "hi"
